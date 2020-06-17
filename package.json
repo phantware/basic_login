@@ -1,0 +1,14 @@
+{
+  "name": "playAround",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Ismail Jamiu Babatunde",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
+    "ws": "^7.3.0"
+  }
+}
